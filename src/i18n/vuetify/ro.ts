@@ -192,7 +192,7 @@ export default {
     noHTML5: "Browserul nu are capacitatea de a reda audio folosind HTML5. Vă recomandăm să încercați Chrome",
     point: "Punct",
     publicDomain: "Domeniu Public",
-    reader: "Voice",
+    reader: "Voce",
     relevance: "Relevanță:",
     returnSearchResults: "Căutarea a găsit A_COUNT rezultate",
     rootLanguage: "Root language",
